@@ -1,4 +1,33 @@
 ﻿classname,cost,supply,isVictory,isTreasure,isAction,isReaction,isDuration,isAttack,isPermanent,actions,cards,buys,money,VP,treasure,expansion
-Chapel,2,,,,,,,,,,,,,,,
-Village,3,,,,,,,,,,,,,,,
-…,,,,,,,,,,,,,,,,
+Copper,0,46,0,1,0,0,0,0,0,0,0,0,0,0,1,Base
+Silver,3,40,0,1,0,0,0,0,0,0,0,0,0,0,2,Base
+Gold,6,30,0,1,0,0,0,0,0,0,0,0,0,0,3,Base
+Curse,0,10,1,0,0,0,0,0,0,0,0,0,0,-1,0,Base
+Estate,2,8,1,0,0,0,0,0,0,0,0,0,0,1,0,Base
+Duchy,5,8,1,0,0,0,0,0,0,0,0,0,0,3,0,Base
+Province,8,8,1,0,0,0,0,0,0,0,0,0,0,6,0,Base
+Cellar,2,10,0,0,1,0,0,0,0,1,0,0,0,0,0,Base
+Chapel,2,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Moat,2,10,0,0,1,1,0,0,0,0,2,0,0,0,0,Base
+Harbinger,3,10,0,0,1,0,0,0,0,1,1,0,0,0,0,Base
+Merchant,3,10,0,0,1,0,0,0,0,1,1,0,0,0,0,Base
+Vassal,3,10,0,0,1,0,0,0,0,0,0,0,2,0,0,Base
+Village,3,10,0,0,1,0,0,0,0,2,1,0,0,0,0,Base
+Workshop,3,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Bureaucrat,4,10,0,0,1,0,0,1,0,0,0,0,0,0,0,Base
+Gardens,4,8,1,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Militia,4,10,0,0,1,0,0,1,0,0,0,0,2,0,0,Base
+Moneylender,4,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Poacher,4,10,0,0,1,0,0,0,0,1,1,0,1,0,0,Base
+Remodel,4,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Smithy,4,10,0,0,1,0,0,0,0,0,3,0,0,0,0,Base
+Throne Room,4,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Bandit,5,10,0,0,1,0,0,1,0,0,0,0,0,0,0,Base
+Council Room,5,10,0,0,1,0,0,0,0,0,4,1,0,0,0,Base
+Festival,5,10,0,0,1,0,0,0,0,2,0,1,2,0,0,Base
+Laboratory,5,10,0,0,1,0,0,0,0,1,2,0,0,0,0,Base
+Market,5,10,0,0,1,0,0,0,0,1,1,1,1,0,0,Base
+Mine,5,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
+Sentry,5,10,0,0,1,0,0,0,0,1,1,0,0,0,0,Base
+Witch,5,10,0,0,1,0,0,1,0,0,2,0,0,0,0,Base
+Artisan,6,10,0,0,1,0,0,0,0,0,0,0,0,0,0,Base
